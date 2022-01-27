@@ -1,3 +1,3 @@
 export default function Home() {
-    return "OK"
+    return <h1>Teste</h1>
 }
