@@ -1,3 +1,7 @@
+import Logo from "@components/templates/Logo";
+
 export default function Home() {
-    return <h1>Teste</h1>
+    return (
+        <Logo />
+    )
 }
